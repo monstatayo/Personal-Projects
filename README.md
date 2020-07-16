@@ -1,5 +1,6 @@
 # Personal-Projects
-Personal Projects I have been working on outside of school. These are for ones that are WIP.
+Personal Projects I have been working on outside of school. These are for ones that are WIP, and have dedicated branches.
+
 
 -Discord Py Bot:
   
