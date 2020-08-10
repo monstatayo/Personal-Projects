@@ -9,7 +9,7 @@ Personal Projects I have been working on outside of school. These are for ones t
      mining (such as user info and server info), and moderating powers. By request of the artist, this bot also implements a cache of user art submitted under the MG     tag.
    
    One key thing to note, some of the MG tag entries do contain body studies/nude sketches or suggestive art, but 
-   have no explicit pornography, as per Discord TOS and personal comfort.
+   have no explicit content, as per Discord TOS and personal comfort.
    
    
 -DNA Sequencing:
