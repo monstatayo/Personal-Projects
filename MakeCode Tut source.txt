@@ -1,0 +1,62 @@
+
+# The first 3 functions will indicate three common types of blocks as bridges.
+# functions "stone", "woodplanks", and "grass" all indicate the blocks they use.
+
+# Each function is declared as:
+
+# ~b[stone, wood, or grass] [East/West] [South/North]
+
+# Key thing to note: THIS IS COMPASS ORIENTED.
+
+# First parameter (x) will move TOWARD the EAST with POSITIVE numbers, and toward the WEST with NEGATIVE numbers. 
+# Second parameter (y) will move TOWARD the SOUTH with POSITIVE numbers, and toward the NORTH with NEGATIVE numbers.
+
+# Here's a way to explain it:
+
+#                N
+#                | -2
+#                | 
+#                | -1
+#                | 
+# W______________|______________ E
+#   -3   -2   -1 | 1    2    3
+#                |  
+#                |  1
+#                |
+#                |  2
+#                S
+
+# After the call, the function will fill the relative position of the player and a second position with the block selected.
+
+def stone(x , y): 
+
+    blocks.fill(COBBLESTONE, pos(0, 0, 0), pos(x, 0, y)) 
+
+player.on_chat("~bstone", stone)
+
+def woodplanks(x , y):
+    
+    blocks.fill(PLANKS_OAK, pos(0 ,0 ,0), pos(x, 0 ,y))
+
+player.on_chat("~bwood", woodplanks)
+
+def grass(x , y):
+
+    blocks.fill(GRASS, pos(0, 0, 0), pos(x, 0, y))
+
+player.on_chat("~bgrass", grass)
+
+# This next function is a template function. Similar to the previous ones, this one is declared in chat as:
+
+# ~bcustom [Block ID] [East/West] [South/North]
+
+# Due to the parameter restrictions of the chat command, you'll need a list of IDs for each corresponding block. 
+# https://minecraft-ids.grahamedgecombe.com/
+
+
+def getCustom(b, x, y):
+    
+    blocks.fill(blocks.block_by_id(b), pos(0, 0, 0), pos(x, 0, y))
+    
+player.on_chat("~bcustom", getCustom)
+
