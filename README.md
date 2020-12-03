@@ -16,3 +16,8 @@ Personal Projects I have been working on outside of school. These are for ones t
 
     Basic File IO program meant to store, modify, create, and delete files or entries meant to store nucleotides within strands of DNA. Currently WIP, as 
     the original program, written in Java, was wiped by user error. More info soon.
+
+
+-MakeCode Minecraft
+
+    Demonstration of Python techniques with video (ask for link) for a job interview.
