@@ -1,29 +1,4 @@
-# Personal-Projects
-Personal Projects I have been working on outside of school. These are for ones that are WIP, and have dedicated branches.
-
-
--Discord Py Bot:
-  
-    This was a discord bot that implements the Discord API as a means to practice and get a good feel for Python as a whole. I did this in collaboration with an artist who runs a discord server, and needed help implementing a bot for various functions. This bot currently runs and uses commands, neat little features, information mining (such as user info and server info), and moderating powers. By request of the artist, this bot also implements a cache of user art submitted under the MG tag. 
-
-   
--DNA Sequencing:
-
-    Basic File IO program meant to store, modify, create, and delete files or entries meant to store nucleotides within strands of DNA. Currently WIP, as 
-    the original program, written in Java, was wiped by user error. More info soon.
-
-
--MakeCode Minecraft
-
-    Demonstration of Python techniques with video (ask for link) for a job interview.
-    
--TicTacToe project:
- 
-    A python program using Turtle graphics to draw an empty board and play tictactoe with two users. Constantly updates per turn using possible combinations/permutations of taken spaces of either player per turn.
- 
--Card Counter:
-
-    Inspired by one of my CS2 questions, and effectively putting it into code:
+ Inspired by one of my CS2 questions, and effectively putting it into code:
    
     "A friend of yours has a large pile of playing cards from several identical decks. They know that they have at least several complete decks, but also that some of the decks are incomplete.They want to get as many possible complete, sorted decks of cards out of the pile as they can. Devise a straightforward method for your friend to do so. Explain why you chose it, and what sorting algorithm – or combination of sorting algorithms – it most resembles. (Length limit: Two paragraphs.)"
    
