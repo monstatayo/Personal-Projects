@@ -33,3 +33,8 @@ Every card in the stack goes from A to 10, Jack, Queen, And King (or in this cas
 **- Logisim Clock Logic Gate Simulator**:
 
 Used Logisim to effectively create a clock that counts seconds, hours, days, months, and years. Also has a leap year detection function, all done with logic gates.
+
+
+**-Teaching**:
+
+A collection of my previous practice problems, free response, and things I have created to aid my students as an instructor.
