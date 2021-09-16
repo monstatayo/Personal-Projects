@@ -1,7 +1,6 @@
-# Personal-Projects
+# Personal Projects
 
-Personal Projects I have been working on outside of school. These are for ones that are WIP, and have dedicated branches.
-
+Personal Projects I have been working on outside of school.
 
 
 **- Cipher Auxiliary Scripts:**
