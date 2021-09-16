@@ -14,7 +14,7 @@ This was a discord bot that implements the Discord API as a means to practice an
 
 **- MakeCode Minecraft**
 
-Demonstration of Python techniques with video (ask for link) for a job interview.
+Demonstration of Python techniques with video (ask for link) for a job interview. Source code is in Teaching Branch
     
 **- TicTacToe project:**
  
