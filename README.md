@@ -4,24 +4,24 @@ Personal Projects I have been working on outside of school. These are for ones t
 
 
 
-**Cipher Auxiliary Scripts:**
+**- Cipher Auxiliary Scripts:**
 
 A series of python scripts written to aid in cracking, encrypting, and decrypting Substitution and Vigenere ciphers. Can be used to bulk test keys and writes to a file all possible combinations and decryptions. The substitution cipher script helps bulk test permutations of the monoalphabetic key as well. These two programs are very modular and easy to modify based on the users cryptographic needs.  
 
-**-Discord Python Bot:**
+**- Discord Python Bot:**
   
 This was a discord bot that implements the Discord API as a means to practice and get a good feel for Python as a whole. I did this in collaboration with an artist who runs a discord server, and needed help implementing a bot for various functions. This bot currently runs and uses commands, neat little features, information mining (such as user info and server info), and moderating powers. By request of the artist, this bot also implements a cache of user art submitted under the MG tag. 
 
 
-**-MakeCode Minecraft**
+**- MakeCode Minecraft**
 
 Demonstration of Python techniques with video (ask for link) for a job interview.
     
-**-TicTacToe project:**
+**- TicTacToe project:**
  
 A handcrafted project template and full working program for my students at Coding Minds Academy. This program is using Turtle graphics to draw an empty board and play tictactoe with two users. Constantly updates per turn using possible combinations/permutations of taken spaces of either player per turn.
  
-**-Card Counter:**
+**- Card Counter:**
 
 Inspired by one of my CS2 questions, and effectively putting it into code:
    
