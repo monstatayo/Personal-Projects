@@ -34,9 +34,9 @@ Every card in the stack goes from A to 10, Jack, Queen, And King (or in this cas
 
 Used Logisim to effectively create a clock that counts seconds, hours, days, months, and years. Also has a leap year detection function, all done with logic gates.
 
-**- Speech to Text Python Script**:
+**- Turing Machine Replication in Python**:
 
-Created a simple speech-to-text script that allows you to bind any key as your "push to talk", with audio cues for on/off. Actively records using default microphone and types onto screen. Used mainly for demos in teaching.
+Simulated a turing machine in Python complete with "tape", initial and final states, transitions, and individual head positions. Given states are defined within the program, and the machine completes its readthrough of the tape and returns an accept or reject state.  
 
 **-Teaching**:
 
