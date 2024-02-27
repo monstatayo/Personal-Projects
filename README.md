@@ -8,10 +8,6 @@ Java program used to demonstrate the encryption and decryption methods of the fa
 
 This program is currently being worked on right now to test a bulk of keys based off a dictionary to test ciphertext with a key length of 4 or below. 
     
-**- TicTacToe project:**
- 
-A handcrafted project template and full working program for my students at Coding Minds Academy. This program is using Turtle graphics to draw an empty board and play tictactoe with two users. Constantly updates per turn using possible combinations/permutations of taken spaces of either player per turn.
- 
 **- Card Counter:**
 
 Inspired by one of my CS2 questions, and effectively putting it into code:
