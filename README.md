@@ -4,8 +4,9 @@ Personal Projects I have been working on outside of school.
 
 **- Cipher Auxiliary Scripts:**
 
-A series of python scripts written to aid in cracking, encrypting, and decrypting Substitution and Vigenere ciphers. Can be used to bulk test keys and writes to a file all possible combinations and decryptions. The substitution cipher script helps bulk test permutations of the monoalphabetic key as well. These two programs are very modular and easy to modify based on the users cryptographic needs.  
-ch
+Java program used to demonstrate the encryption and decryption methods of the famous Vigenère cipher. 
+
+This program is currently being worked on right now to test a bulk of keys based off a dictionary to test ciphertext with a key length of 4 or below. 
     
 **- TicTacToe project:**
  
